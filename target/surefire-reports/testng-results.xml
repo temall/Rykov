@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-07T16:12:18 MSK" name="Command line suite" finished-at="2021-11-07T16:12:18 MSK" duration-ms="44">
+    <groups>
+    </groups>
+    <test started-at="2021-11-07T16:12:18 MSK" name="Command line test" finished-at="2021-11-07T16:12:18 MSK" duration-ms="44">
+      <class name="FirstExampleTest">
+        <test-method signature="testArrays()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testArrays" finished-at="2021-11-07T16:12:18 MSK" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArrays -->
+        <test-method signature="testForLoop()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testForLoop" finished-at="2021-11-07T16:12:18 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForLoop -->
+        <test-method signature="testLoginTest()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testLoginTest" finished-at="2021-11-07T16:12:18 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginTest -->
+        <test-method signature="testMoreNumbers()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testMoreNumbers" finished-at="2021-11-07T16:12:18 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoreNumbers -->
+        <test-method signature="testMyMethod()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testMyMethod" finished-at="2021-11-07T16:12:18 MSK" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMyMethod -->
+        <test-method signature="testMyMethod002()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testMyMethod002" finished-at="2021-11-07T16:12:18 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMyMethod002 -->
+        <test-method signature="testNumberOfSomething()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testNumberOfSomething" finished-at="2021-11-07T16:12:18 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberOfSomething -->
+        <test-method signature="testName()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testName" finished-at="2021-11-07T16:12:18 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testName -->
+        <test-method signature="testNumbers()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testNumbers" finished-at="2021-11-07T16:12:18 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumbers -->
+        <test-method signature="testShouldPrintHello()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testShouldPrintHello" finished-at="2021-11-07T16:12:18 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShouldPrintHello -->
+        <test-method signature="testString()[pri:0, instance:FirstExampleTest@6ec8211c]" started-at="2021-11-07T16:12:18 MSK" name="testString" finished-at="2021-11-07T16:12:18 MSK" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testString -->
+      </class> <!-- FirstExampleTest -->
+      <class name="SecondExampleTest">
+        <test-method signature="testBooleans()[pri:0, instance:SecondExampleTest@7276c8cd]" started-at="2021-11-07T16:12:18 MSK" name="testBooleans" finished-at="2021-11-07T16:12:18 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBooleans -->
+        <test-method signature="testName()[pri:0, instance:SecondExampleTest@7276c8cd]" started-at="2021-11-07T16:12:18 MSK" name="testName" finished-at="2021-11-07T16:12:18 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testName -->
+      </class> <!-- SecondExampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
